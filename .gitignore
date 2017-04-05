@@ -1,0 +1,7 @@
+output*/
+*.jar
+*.class
+*.zip
+run.txt
+input/*
+!input/sample.txt
